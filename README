@@ -1,0 +1,5 @@
+Web Miner
+
+This project uses scrapy to aggregate lots of webpages for the purpose of mining the data and ranking search results
+using existing projects.
+
